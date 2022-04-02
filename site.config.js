@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: '喵喵喵',
-  domain: 'https://miaomiaolalala.notion.site/856aaff2022b4bc48d1d673ddea9f109',
+  domain: 'miaolalala.com',
   author: '小喵喵',
 
   // open graph metadata (optional)
